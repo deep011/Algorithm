@@ -1,4 +1,7 @@
 
+/**
+ * 删除链表的倒数第 N 个结点: 给一个链表，删除链表的倒数第 n 个结点，并且返回链表的头结点。
+ * &#064;https://leetcode.cn/problems/remove-nth-node-from-end-of-list/  */
 public class RemoveNthFromEnd {
     public static class ListNode {
         int val;
